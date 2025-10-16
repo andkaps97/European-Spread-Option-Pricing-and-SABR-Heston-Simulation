@@ -108,7 +108,7 @@ Spread option :
 - n_simulations — number of Monte Carlo paths (computationally expensive)
 - n_steps — time steps per path
 
-Stochastic volatility (Exercise 10):
+Stochastic volatility :
 - Heston: S0, r, nu0, theta, rho, xi, kappa, T, dt
 - SABR: F0, sigma0, beta, rho, alpha, T, dt
 - `pysabr.Hagan2002LognormalSABR` parameters: f, shift, t, v_atm_n, beta, rho, volvol
@@ -134,6 +134,7 @@ Notes:
 - Hagan, P., Kumar, D., Lesniewski, A., and Woodward, D. (2002). Managing Smile Risk.
 - Heston, S. (1993). A Closed-Form Solution for Options with Stochastic Volatility.
 - Bachelier, L. (1900). Théorie de la Spéculation.
+
 
 
 
